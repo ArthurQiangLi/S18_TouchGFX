@@ -11,6 +11,7 @@
       - [Graphic Engine (model)](#graphic-engine-model)
       - [Main Loop](#main-loop)
       - [Performance](#performance)
+- [Document3: Board Bring Up - Introduction](#document3-board-bring-up---introduction)
 
 
 ## [*Presentations list link](https://support.touchgfx.com/docs/resources/presentations)
@@ -59,14 +60,19 @@ read inputs --> change model --> render model to framebuffer and then display
 
 <image src="image-6.png" width="500">
 
+# Document3: Board Bring Up - Introduction
+
+<img src="./Screenshot 2025-07-29 082313.png" width="600">
+
+Memory interface and type
 
 
+<img src="./Screenshot 2025-07-29 082621.png" width="500">
 
 
+Task List:
 
-
-
-
+<image src="image-7.png" width="600">
 
 
 
