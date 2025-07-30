@@ -94,28 +94,8 @@ When rendering an image the Engine checks if the HAL eg DMA2D can do the drawing
 - User code files are only generated if not present. 
 
 ##################################################################
-Appendixs
 
 
-## Names
-1. `LTDC` =  LCD-TFT Display Controller.
-1. `Chrom-ART` = DMA2D or 2D DMA, naming is arbitary.  Its hardware can do Color filling, Image copying, Pixel format conversion, Alpha blending.
-1. `FMC` = Flexible Memory controller
-1. `FSMC` = Flexible Static Memory Controller
-1. `MIPI` = (Mobile Industry Processor Interface) 
-	MIPI DSI = Display Serial interface
-	MIPI CSI = Camera Serial Interface
-1. `AL` = Abstraction Layer 
-1. `application` = screens, widgets
-1. `Data Reader` = serial flash, a non-memory mapped flash
-	
-## DO and DON'T quick facts
-- Does NOT support multiple touch.
-- You should expect that this Bring-up phase will take some days to complete.
-- Bring-up does NOT involve any TouchGFX code.
-- CubeMX generate : 1. startup code to MCU 2. interrupt table, 3 system initialization code, 4 HAL drivers for all the peripherals in the MCU. 5. linker script
-- It's better to disable the data cache in bringing-up phase when you have not got a stable platform. (it can be disabled in CubeMX in the System Core section).
-- Layers are numbered 1, 2 in the HAL functions, but 0, 1 in STM32CubeMX. stupid.
 
-## Resources
-- CubeIDE All: https://www.st.com/en/development-tools/stm32cubeide.html#documentation
+
+

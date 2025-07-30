@@ -1,0 +1,33 @@
+# Notes: How TouchGFX Works?
+
+
+
+
+
+
+![alt text](howTouchGFXWorks.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
