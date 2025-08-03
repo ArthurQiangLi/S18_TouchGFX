@@ -5,7 +5,7 @@
 
 
 
-![alt text](howTouchGFXWorks.png)
+![alt text](overview.png)
 
 
 

@@ -1,5 +1,9 @@
 # Pick about 'X-CUBE-DISPLAY'
 
+Key takeaway:
+
+1. This package works with old cubeMx only, like 3.0.0 works with cubeMx6.7.0 
+
 ## 1. Links
 1. Official link [Display module software expansion for STM32Cube](https://www.st.com/en/embedded-software/x-cube-display.html)
 1. Flyer: [microcontrollers-stm32-entry-level-graphics.pdf](https://www.st.com/resource/en/product_presentation/microcontrollers-stm32-entry-level-graphics.pdf)
