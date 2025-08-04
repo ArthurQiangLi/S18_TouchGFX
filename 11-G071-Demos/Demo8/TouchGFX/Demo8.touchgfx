@@ -1,0 +1,534 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "Main",
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "circleCenter",
+            "X": 30,
+            "Y": 30,
+            "Width": 180,
+            "Height": 180,
+            "Color": {
+              "Red": 232,
+              "Green": 244,
+              "Blue": 248
+            }
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "numberAnimator0",
+            "X": 53,
+            "Y": 34,
+            "Width": 67,
+            "Height": 172,
+            "CustomContainerDefinitionName": "NumberAnimator"
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "numberAnimator1",
+            "X": 120,
+            "Y": 34,
+            "Width": 67,
+            "Height": 172,
+            "CustomContainerDefinitionName": "NumberAnimator"
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "qrCodeAnimator",
+            "X": 66,
+            "Y": 51,
+            "Width": 108,
+            "Height": 146,
+            "CustomContainerDefinitionName": "QRCodeAnimator"
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "imageAnimator",
+            "Width": 240,
+            "Height": 240,
+            "CustomContainerDefinitionName": "ImageAnimator"
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "circleAnimator",
+            "X": 35,
+            "Y": 35,
+            "Width": 170,
+            "Height": 170,
+            "CustomContainerDefinitionName": "CircleAnimator"
+          },
+          {
+            "Type": "Image",
+            "Name": "circleTop",
+            "X": 53,
+            "Y": 19,
+            "Width": 134,
+            "Height": 47,
+            "RelativeFilename": "circleTop.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "circleBottom",
+            "X": 53,
+            "Y": 174,
+            "Width": 134,
+            "Height": 46,
+            "RelativeFilename": "circleBottom.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "circleLeft",
+            "Y": 20,
+            "Width": 53,
+            "Height": 200,
+            "RelativeFilename": "circleLeftFull.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "circleRight",
+            "X": 187,
+            "Y": 20,
+            "Width": 53,
+            "Height": 200,
+            "RelativeFilename": "circleRightFull.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "backgroundTop",
+            "Width": 240,
+            "Height": 20,
+            "RelativeFilename": "backgroundTop.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "backgroundBottom",
+            "Y": 220,
+            "Width": 240,
+            "Height": 20,
+            "RelativeFilename": "backgroundBottom.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "selectText",
+            "X": 10,
+            "Y": 10,
+            "Width": 55,
+            "Height": 15,
+            "RelativeFilename": "enter_text.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "nextIcon",
+            "X": 210,
+            "Y": 8,
+            "Width": 12,
+            "Height": 19,
+            "RelativeFilename": "next_icon.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "demoNameText",
+            "X": 48,
+            "Y": 222,
+            "Width": 140,
+            "Height": 14,
+            "RelativeFilename": "title_qr.png"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "hardwareSelectButtonClicked",
+            "Trigger": {
+              "Type": "TriggerPhysicalButtonClicked",
+              "ButtonKey": 53
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "selectActionHandler"
+            }
+          },
+          {
+            "InteractionName": "hardwareNextButtonClicked",
+            "Trigger": {
+              "Type": "TriggerPhysicalButtonClicked",
+              "ButtonKey": 54
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "nextActionHandler"
+            }
+          },
+          {
+            "InteractionName": "updateDemoName",
+            "Trigger": {
+              "Type": "TriggerCustom",
+              "TriggerCustomTypeName": "ImageAnimator imageIsOut happens",
+              "TriggerComponent": "imageAnimator"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "updateDemoName"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [
+      {
+        "Name": "NumberAnimator",
+        "Width": 67,
+        "Height": 172,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "numberImage0",
+            "Y": 11,
+            "Width": 67,
+            "Height": 1530,
+            "RelativeFilename": "numbers.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "numberImage1",
+            "Y": 1515,
+            "Width": 67,
+            "Height": 1530,
+            "RelativeFilename": "numbers.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          }
+        ],
+        "Interactions": []
+      },
+      {
+        "Name": "ImageAnimator",
+        "Width": 240,
+        "Height": 240,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "X": 240,
+            "Y": 53,
+            "Width": 64,
+            "Height": 67,
+            "RelativeFilename": "academyTopRight.png",
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "image3",
+            "X": 56,
+            "Y": -67,
+            "Width": 64,
+            "Height": 67,
+            "RelativeFilename": "academyTopLeft.png",
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "image4",
+            "X": 120,
+            "Y": 240,
+            "Width": 64,
+            "Height": 67,
+            "RelativeFilename": "academyBottomRight.png",
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "image2",
+            "X": -64,
+            "Y": 120,
+            "Width": 64,
+            "Height": 67,
+            "RelativeFilename": "academyBottomLeft.png",
+            "Fadeable": true,
+            "Moveable": true
+          }
+        ],
+        "Interactions": [],
+        "CustomTriggers": [
+          {
+            "Name": "imageIsOut",
+            "Description": "Is called whenever the image is fully moved out"
+          }
+        ]
+      },
+      {
+        "Name": "QRCodeAnimator",
+        "Width": 108,
+        "Height": 146,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "academyLogo",
+            "Y": 89,
+            "Width": 108,
+            "Height": 57,
+            "RelativeFilename": "academySmall.png",
+            "Alpha": 0,
+            "Fadeable": true
+          },
+          {
+            "Type": "QRCode",
+            "Name": "qrCodeMain",
+            "X": 13,
+            "Width": 82,
+            "Height": 82,
+            "Alpha": 0,
+            "QRVersion": 6,
+            "Scale": 2,
+            "Text": "SUPPORT.TOUCHGFX.COM",
+            "BackgroundColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "ErrorCorrectionCode": 1,
+            "Fadeable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "qrCodeMainCircle",
+            "X": 34,
+            "Y": 21,
+            "Width": 40,
+            "Height": 40,
+            "RelativeFilename": "qrOverlayCircle.png",
+            "Alpha": 0,
+            "Fadeable": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "qrCodeMainText",
+            "X": 41,
+            "Y": 20,
+            "Width": 27,
+            "Height": 41,
+            "TextId": "qrCodeID",
+            "TextRotation": "0",
+            "Alpha": 0,
+            "Wildcard1": {
+              "UseBuffer": true,
+              "BufferSize": 10
+            },
+            "Fadeable": true
+          },
+          {
+            "Type": "Container",
+            "Name": "qrViewPort",
+            "X": 13,
+            "Height": 82,
+            "Components": [
+              {
+                "Type": "QRCode",
+                "Name": "qrCodeAnimationOverlay",
+                "Width": 82,
+                "Height": 82,
+                "QRVersion": 6,
+                "Scale": 2,
+                "Text": "test",
+                "BackgroundColor": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "ErrorCorrectionCode": 1
+              },
+              {
+                "Type": "Image",
+                "Name": "qrCodeAnimationOverlayCircle",
+                "X": 21,
+                "Y": 21,
+                "Width": 40,
+                "Height": 40,
+                "RelativeFilename": "qrOverlayCircle.png"
+              },
+              {
+                "Type": "TextArea",
+                "Name": "qrCodeAnimationOverlayText",
+                "X": 28,
+                "Y": 20,
+                "Width": 27,
+                "Height": 41,
+                "TextId": "qrCodeID",
+                "TextRotation": "0",
+                "Wildcard1": {
+                  "UseBuffer": true,
+                  "BufferSize": 10
+                }
+              }
+            ]
+          }
+        ],
+        "Interactions": []
+      },
+      {
+        "Name": "CircleAnimator",
+        "Width": 170,
+        "Height": 170,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "lines",
+            "Width": 170,
+            "Height": 170,
+            "RelativeFilename": "lines.png",
+            "Alpha": 0,
+            "Fadeable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle0",
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle1",
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle2",
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle3",
+            "X": 1,
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle4",
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle5",
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle6",
+            "X": 1,
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "circle7",
+            "X": 1,
+            "Width": 14,
+            "Height": 14,
+            "RelativeFilename": "small_circle.png",
+            "Alpha": 0,
+            "Fadeable": true,
+            "Moveable": true
+          }
+        ],
+        "Interactions": []
+      }
+    ],
+    "Name": "Demo8",
+    "Resolution": {
+      "Width": 240,
+      "Height": 320
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "Main",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bppSerialFlash"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 240,
+        "Height": 320
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bppSerialFlash": {
+        "Id": "LCD16bppSerialFlash",
+        "IsEnabled": false
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../gcc/Makefile flash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Portrait",
+    "Family": "STM32G0",
+    "SubFamily": "STM32G0x1",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m0+",
+    "ProjectFile": "../STM32G071RB_NUCLEO_AZ2.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": []
+  },
+  "Version": "4.24.0",
+  "CreatedBy": "4.24.0"
+}

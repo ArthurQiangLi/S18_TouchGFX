@@ -1,0 +1,34 @@
+Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	8	static
+Drawable.hpp:147:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	0	static
+Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:501:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	8	static
+Drawable.hpp:703:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+Widget.hpp:45:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+Image.hpp:118:18:virtual void touchgfx::Image::invalidateContent() const	8	static
+ImageAnimatorBase.hpp:37:18:virtual void ImageAnimatorBase::emitImageIsOutCallback()	16	static
+ImageAnimatorBase.cpp:29:1:ImageAnimatorBase::~ImageAnimatorBase()	0	static
+ImageAnimatorBase.cpp:34:6:virtual void ImageAnimatorBase::initialize()	0	static
+MoveAnimator.hpp:37:7:touchgfx::MoveAnimator<touchgfx::Image>::~MoveAnimator()	0	static
+FadeAnimator.hpp:41:7:touchgfx::FadeAnimator<touchgfx::MoveAnimator<touchgfx::Image> >::~FadeAnimator()	0	static
+MoveAnimator.hpp:88:18:void touchgfx::MoveAnimator<T>::setMoveAnimationDelay(uint16_t) [with T = touchgfx::Image]	0	static
+MoveAnimator.hpp:100:22:uint16_t touchgfx::MoveAnimator<T>::getMoveAnimationDelay() const [with T = touchgfx::Image]	0	static
+FadeAnimator.hpp:84:18:void touchgfx::FadeAnimator<T>::setFadeAnimationDelay(uint16_t) [with T = touchgfx::MoveAnimator<touchgfx::Image>]	0	static
+FadeAnimator.hpp:96:22:uint16_t touchgfx::FadeAnimator<T>::getFadeAnimationDelay() const [with T = touchgfx::MoveAnimator<touchgfx::Image>]	0	static
+MoveAnimator.hpp:37:7:virtual touchgfx::MoveAnimator<touchgfx::Image>::~MoveAnimator()	8	static
+FadeAnimator.hpp:41:7:virtual touchgfx::FadeAnimator<touchgfx::MoveAnimator<touchgfx::Image> >::~FadeAnimator()	8	static
+ImageAnimatorBase.cpp:29:1:virtual ImageAnimatorBase::~ImageAnimatorBase()	8	static
+Drawable.hpp:343:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+FadeAnimator.hpp:44:5:touchgfx::FadeAnimator<T>::FadeAnimator() [with T = touchgfx::MoveAnimator<touchgfx::Image>]	24	static
+ImageAnimatorBase.cpp:7:1:ImageAnimatorBase::ImageAnimatorBase()	48	static
+MoveAnimator.hpp:177:10:void touchgfx::MoveAnimator<T>::nextMoveAnimationStep() [with T = touchgfx::Image]	24	static
+MoveAnimator.hpp:169:18:void touchgfx::MoveAnimator<T>::handleTickEvent() [with T = touchgfx::Image]	8	static
+FadeAnimator.hpp:157:18:void touchgfx::FadeAnimator<T>::handleTickEvent() [with T = touchgfx::MoveAnimator<touchgfx::Image>]	32	static

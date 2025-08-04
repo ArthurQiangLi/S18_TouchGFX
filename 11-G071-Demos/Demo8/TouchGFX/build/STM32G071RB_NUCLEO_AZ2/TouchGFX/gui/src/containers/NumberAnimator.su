@@ -1,0 +1,28 @@
+Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	8	static
+Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	8	static
+Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+NumberAnimator.hpp:11:13:NumberAnimator::~NumberAnimator()	8	static
+NumberAnimator.hpp:11:13:virtual NumberAnimator::~NumberAnimator()	8	static
+NumberAnimator.cpp:28:6:virtual void NumberAnimator::handleTickEvent()	40	static
+NumberAnimator.cpp:4:1:NumberAnimator::NumberAnimator()	8	static
+NumberAnimator.cpp:72:6:void NumberAnimator::startMoveAnimation(int16_t, int16_t, uint16_t, touchgfx::EasingEquation, touchgfx::EasingEquation)	32	static
+NumberAnimator.cpp:96:6:void NumberAnimator::setAnimationDelay(uint16_t)	0	static
+NumberAnimator.cpp:107:6:void NumberAnimator::animateNumbers(int, uint16_t, touchgfx::EasingEquation, touchgfx::EasingEquation)	24	static
+NumberAnimator.cpp:101:6:void NumberAnimator::animateToNumber(int, uint16_t, touchgfx::EasingEquation, touchgfx::EasingEquation)	16	static
+NumberAnimator.cpp:116:5:int NumberAnimator::getCurrentNumber()	0	static
+NumberAnimator.cpp:121:6:bool NumberAnimator::isAnimating()	0	static
+NumberAnimator.cpp:140:6:bool NumberAnimator::isFadeAnimationRunning()	0	static
+NumberAnimator.cpp:145:6:bool NumberAnimator::getAnimateOnEveryTick()	0	static
+NumberAnimator.cpp:150:6:void NumberAnimator::setAnimateOnEvenTick(bool)	0	static
+FadeAnimator.hpp:165:10:void touchgfx::FadeAnimator<T>::nextFadeAnimationStep() [with T = touchgfx::MoveAnimator<touchgfx::Image>]	32	static
+FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::MoveAnimator<touchgfx::Image>]	32	static
+NumberAnimator.cpp:126:6:void NumberAnimator::startFadeAnimation()	16	static
+NumberAnimator.cpp:22:6:virtual void NumberAnimator::initialize()	8	static

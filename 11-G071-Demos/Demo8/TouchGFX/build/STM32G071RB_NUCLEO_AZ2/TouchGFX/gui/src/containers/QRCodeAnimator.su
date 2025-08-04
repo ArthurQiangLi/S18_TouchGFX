@@ -1,0 +1,23 @@
+Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	8	static
+Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	8	static
+Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+QRCodeAnimator.hpp:10:13:QRCodeAnimator::~QRCodeAnimator()	8	static
+QRCodeAnimator.hpp:10:13:virtual QRCodeAnimator::~QRCodeAnimator()	8	static
+QRCodeAnimator.cpp:53:6:void QRCodeAnimator::animateToNextQR()	8	static
+QRCodeAnimator.cpp:62:6:bool QRCodeAnimator::isAnimationRunning()	0	static
+QRCodeAnimator.cpp:86:6:bool QRCodeAnimator::isFadeAnimationRunning()	0	static
+QRCodeAnimator.cpp:91:6:void QRCodeAnimator::updateCurrentStringToDisplay()	32	static
+QRCodeAnimator.cpp:6:1:QRCodeAnimator::QRCodeAnimator()	8	static
+QRCodeAnimator.cpp:25:6:virtual void QRCodeAnimator::handleTickEvent()	32	static
+FadeAnimator.hpp:165:10:void touchgfx::FadeAnimator<T>::nextFadeAnimationStep() [with T = touchgfx::Image]	24	static
+FadeAnimator.hpp:122:10:void touchgfx::FadeAnimator<T>::startFadeAnimation(uint8_t, uint16_t, touchgfx::EasingEquation) [with T = touchgfx::Image]	32	static
+QRCodeAnimator.cpp:67:6:void QRCodeAnimator::startFadeAnimation()	40	static
+QRCodeAnimator.cpp:20:6:virtual void QRCodeAnimator::initialize()	8	static

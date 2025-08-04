@@ -26,7 +26,7 @@ Notes and templates for TouchGFX on STM32G/F/H series
 
 ## Overview
 
-![overview](./01-reading-notes/presentation4-/overview.png)
+![overview](./01-reading-notes/presentation4/overview.png)
 
 ## Table Of Contents
 1. [Presentation Notes: What are they](./01-reading-notes/presentation1-3/note1.md)

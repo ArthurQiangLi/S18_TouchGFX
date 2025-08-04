@@ -1,0 +1,13 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+MainView.cpp:26:6:virtual void MainView::tearDownScreen()	0	static
+MainView.cpp:219:6:virtual void MainView::nextActionHandler()	32	static
+MainView.hpp:11:13:MainView::~MainView()	8	static
+MainView.hpp:11:13:virtual MainView::~MainView()	8	static
+MainView.cpp:97:6:virtual void MainView::handleClickEvent(const touchgfx::ClickEvent&)	8	static
+Bitmap.hpp:146:14:touchgfx::BitmapId touchgfx::Bitmap::getId() const	8	static
+MainView.cpp:5:1:MainView::MainView()	8	static
+MainView.cpp:289:6:void MainView::resetInactiveCounter()	0	static
+MainView.cpp:11:6:virtual void MainView::setupScreen()	8	static
+MainView.cpp:31:6:virtual void MainView::handleTickEvent()	32	static
+MainView.cpp:114:6:virtual void MainView::selectActionHandler()	40	static
+MainView.cpp:268:6:virtual void MainView::updateDemoName()	24	static

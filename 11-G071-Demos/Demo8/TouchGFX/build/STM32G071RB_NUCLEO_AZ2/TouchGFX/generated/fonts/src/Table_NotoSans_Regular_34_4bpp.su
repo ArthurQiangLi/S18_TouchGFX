@@ -1,0 +1,2 @@
+Table_NotoSans_Regular_34_4bpp.cpp:52:245:void __tcf_0()	0	static
+Table_NotoSans_Regular_34_4bpp.cpp:50:29:touchgfx::UnmappedDataFont& getFont_NotoSans_Regular_34_4bpp()	72	static
