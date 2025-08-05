@@ -2,7 +2,7 @@
 
 
 
-## Demo8 (Excellent effects)
+## 1. Demo8 (Excellent effects)
 
 It has 3 demos, shown in the table below.
 
@@ -14,6 +14,8 @@ It has 3 demos, shown in the table below.
 
 ## 2.Folder structure
 Let's look at what are all the files in this project. There're quite a lot of them. 
+
+<img src="image-8.png" width="300" border="1">
 
 - Core
 	- DCS.h [Display Command Set definition]

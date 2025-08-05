@@ -2405,7 +2405,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x1c TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/FontCache.o
  .debug_macro   0x00000000       0x10 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/FontCache.o
  .debug_line    0x00000000      0x9f9 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/FontCache.o
- .debug_str     0x00000000     0xcd01 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/FontCache.o
+ .debug_str     0x00000000     0xcd15 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/FontCache.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/FontCache.o
  .debug_frame   0x00000000      0x274 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/FontCache.o
  .ARM.attributes
@@ -2489,7 +2489,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x1c TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/VectorFontRendererBuffers.o
  .debug_macro   0x00000000       0x58 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/VectorFontRendererBuffers.o
  .debug_line    0x00000000      0x4ad TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/VectorFontRendererBuffers.o
- .debug_str     0x00000000     0x6ac3 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/VectorFontRendererBuffers.o
+ .debug_str     0x00000000     0x6ad7 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/VectorFontRendererBuffers.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/VectorFontRendererBuffers.o
  .debug_frame   0x00000000       0x28 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/VectorFontRendererBuffers.o
  .ARM.attributes
@@ -2589,7 +2589,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xa3 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/CachedFont.o
  .debug_macro   0x00000000       0x1c TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/CachedFont.o
  .debug_line    0x00000000      0x587 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/CachedFont.o
- .debug_str     0x00000000     0x7084 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/CachedFont.o
+ .debug_str     0x00000000     0x7098 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/CachedFont.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/CachedFont.o
  .debug_frame   0x00000000      0x170 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/CachedFont.o
  .ARM.attributes
@@ -2695,7 +2695,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xa3 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/SVGDatabase.o
  .debug_macro   0x00000000       0x1c TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/SVGDatabase.o
  .debug_line    0x00000000      0x33c TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/SVGDatabase.o
- .debug_str     0x00000000     0x4dda TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/SVGDatabase.o
+ .debug_str     0x00000000     0x4dee TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/SVGDatabase.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/SVGDatabase.o
  .debug_frame   0x00000000       0x30 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/SVGDatabase.o
  .ARM.attributes
@@ -4471,7 +4471,7 @@ Discarded input sections
                 0x00000000       0x78 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.o
  .debug_ranges  0x00000000       0x68 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.o
  .debug_line    0x00000000      0x442 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.o
- .debug_str     0x00000000      0x626 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.o
+ .debug_str     0x00000000      0x63a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.o
  .debug_frame   0x00000000      0x140 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.o
  .ARM.attributes
@@ -4525,7 +4525,7 @@ Discarded input sections
                 0x00000000       0x40 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.o
  .debug_ranges  0x00000000       0x30 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.o
  .debug_line    0x00000000      0x303 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.o
- .debug_str     0x00000000      0x7b5 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.o
+ .debug_str     0x00000000      0x7c9 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.o
  .debug_frame   0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.o
  .ARM.attributes
@@ -4534,7 +4534,7 @@ Discarded input sections
  .data          0x00000000        0x0 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.o
  .bss           0x00000000        0x0 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.o
  .debug_line    0x00000000        0x0 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.o
- .debug_str     0x00000000      0x16b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.o
+ .debug_str     0x00000000      0x17f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.o
  .ARM.attributes
                 0x00000000       0x32 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.o
@@ -4572,7 +4572,7 @@ Discarded input sections
                 0x00000000       0x78 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.o
  .debug_ranges  0x00000000       0x68 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.o
  .debug_line    0x00000000      0x333 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.o
- .debug_str     0x00000000      0x65e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.o
+ .debug_str     0x00000000      0x672 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.o
  .debug_frame   0x00000000       0xe0 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.o
  .ARM.attributes
@@ -4609,7 +4609,7 @@ Discarded input sections
                 0x00000000       0x70 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.o
  .debug_ranges  0x00000000      0x150 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.o
  .debug_line    0x00000000      0x46b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.o
- .debug_str     0x00000000      0x7c9 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.o
+ .debug_str     0x00000000      0x7dd TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.o
  .debug_frame   0x00000000      0x100 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.o
  .ARM.attributes
@@ -4651,7 +4651,7 @@ Discarded input sections
                 0x00000000       0x20 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi_ex.o
  .debug_ranges  0x00000000       0x10 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi_ex.o
  .debug_line    0x00000000      0x22a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi_ex.o
- .debug_str     0x00000000      0x859 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi_ex.o
+ .debug_str     0x00000000      0x86d TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi_ex.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi_ex.o
  .debug_frame   0x00000000       0x24 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi_ex.o
  .ARM.attributes
@@ -4814,7 +4814,7 @@ Discarded input sections
                 0x00000000       0x60 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.o
  .debug_ranges  0x00000000       0x50 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.o
  .debug_line    0x00000000      0x393 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.o
- .debug_str     0x00000000      0x5fe TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.o
+ .debug_str     0x00000000      0x612 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.o
  .debug_frame   0x00000000       0xf4 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.o
  .ARM.attributes
@@ -5238,7 +5238,7 @@ Discarded input sections
                 0x00000000       0x40 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
  .debug_ranges  0x00000000       0x90 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
  .debug_line    0x00000000      0x50b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
- .debug_str     0x00000000      0x7d6 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
+ .debug_str     0x00000000      0x7ea TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
  .comment       0x00000000       0x80 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
  .debug_frame   0x00000000       0xa0 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
  .ARM.attributes
@@ -11771,175 +11771,175 @@ OUTPUT(TouchGFX/build/bin/target.elf elf32-littlearm)
  .debug_line    0x0002140b      0x192 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/sysmem.o
  .debug_line    0x0002159d       0x7d TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/startup_stm32g071rbtx.o
 
-.debug_str      0x00000000    0xbc754
- .debug_str     0x00000000     0xf404 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/NumberAnimator.o
-                               0xf8a2 (size before relaxing)
- .debug_str     0x0000f404      0xdfb TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/ImageAnimator.o
-                              0x10234 (size before relaxing)
- .debug_str     0x000101ff     0x2b4f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/CircleAnimator.o
-                              0x121cb (size before relaxing)
- .debug_str     0x00012d4e     0x3d9f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/QRCodeAnimator.o
-                              0x12b81 (size before relaxing)
- .debug_str     0x00016aed      0x9de TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/main_screen/MainPresenter.o
-                              0x1421e (size before relaxing)
- .debug_str     0x000174cb       0x6b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/main_screen/MainView.o
-                              0x1449b (size before relaxing)
- .debug_str     0x00017536       0x2f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/model/Model.o
-                               0x31cc (size before relaxing)
- .debug_str     0x00017565      0x278 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/common/FrontendApplication.o
-                               0xe790 (size before relaxing)
- .debug_str     0x000177dd      0x3e4 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/CircleAnimatorBase.o
-                              0x10082 (size before relaxing)
- .debug_str     0x00017bc1       0x97 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/ImageAnimatorBase.o
-                               0xfc80 (size before relaxing)
- .debug_str     0x00017c58      0x8fc TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/QRCodeAnimatorBase.o
-                              0x12e3d (size before relaxing)
- .debug_str     0x00018554       0x9b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/NumberAnimatorBase.o
-                               0xfbc7 (size before relaxing)
- .debug_str     0x000185ef      0x252 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/main_screen/MainViewBase.o
-                              0x14d74 (size before relaxing)
- .debug_str     0x00018841     0x5ec5 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.o
-                              0x1a538 (size before relaxing)
- .debug_str     0x0001e706      0xc70 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/GeneratedFont.o
-                               0xbdc4 (size before relaxing)
- .debug_str     0x0001f376      0x6dd TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/UnmappedDataFont.o
-                               0x64e2 (size before relaxing)
- .debug_str     0x0001fa53      0x13b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/Table_NotoSans_Regular_34_4bpp.o
-                               0x6048 (size before relaxing)
- .debug_str     0x0001fb8e       0x41 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/Font_NotoSans_Regular_34_4bpp_0.o
-                               0x4b58 (size before relaxing)
- .debug_str     0x0001fbcf       0x42 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/Kerning_NotoSans_Regular_34_4bpp.o
-                               0x5259 (size before relaxing)
- .debug_str     0x0001fc11      0x113 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/ApplicationFontProvider.o
-                               0x5ef7 (size before relaxing)
- .debug_str     0x0001fd24       0x50 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoBottomRight.o
-                               0x368a (size before relaxing)
- .debug_str     0x0001fd74       0x4a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoTopRight.o
-                               0x3684 (size before relaxing)
- .debug_str     0x0001fdbe       0x5e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingBottomLeft.o
+.debug_str      0x00000000    0xbc768
+ .debug_str     0x00000000     0xf418 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/NumberAnimator.o
+                               0xf8b6 (size before relaxing)
+ .debug_str     0x0000f418      0xdfb TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/ImageAnimator.o
+                              0x10248 (size before relaxing)
+ .debug_str     0x00010213     0x2b4f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/CircleAnimator.o
+                              0x121df (size before relaxing)
+ .debug_str     0x00012d62     0x3d9f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/QRCodeAnimator.o
+                              0x12b95 (size before relaxing)
+ .debug_str     0x00016b01      0x9de TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/main_screen/MainPresenter.o
+                              0x14232 (size before relaxing)
+ .debug_str     0x000174df       0x6b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/main_screen/MainView.o
+                              0x144af (size before relaxing)
+ .debug_str     0x0001754a       0x2f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/model/Model.o
+                               0x31e0 (size before relaxing)
+ .debug_str     0x00017579      0x278 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/common/FrontendApplication.o
+                               0xe7a4 (size before relaxing)
+ .debug_str     0x000177f1      0x3e4 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/CircleAnimatorBase.o
+                              0x10096 (size before relaxing)
+ .debug_str     0x00017bd5       0x97 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/ImageAnimatorBase.o
+                               0xfc94 (size before relaxing)
+ .debug_str     0x00017c6c      0x8fc TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/QRCodeAnimatorBase.o
+                              0x12e51 (size before relaxing)
+ .debug_str     0x00018568       0x9b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/containers/NumberAnimatorBase.o
+                               0xfbdb (size before relaxing)
+ .debug_str     0x00018603      0x252 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/main_screen/MainViewBase.o
+                              0x14d88 (size before relaxing)
+ .debug_str     0x00018855     0x5ec5 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.o
+                              0x1a54c (size before relaxing)
+ .debug_str     0x0001e71a      0xc70 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/GeneratedFont.o
+                               0xbdd8 (size before relaxing)
+ .debug_str     0x0001f38a      0x6dd TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/UnmappedDataFont.o
+                               0x64f6 (size before relaxing)
+ .debug_str     0x0001fa67      0x13b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/Table_NotoSans_Regular_34_4bpp.o
+                               0x605c (size before relaxing)
+ .debug_str     0x0001fba2       0x41 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/Font_NotoSans_Regular_34_4bpp_0.o
+                               0x4b6c (size before relaxing)
+ .debug_str     0x0001fbe3       0x42 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/Kerning_NotoSans_Regular_34_4bpp.o
+                               0x526d (size before relaxing)
+ .debug_str     0x0001fc25      0x113 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/fonts/src/ApplicationFontProvider.o
+                               0x5f0b (size before relaxing)
+ .debug_str     0x0001fd38       0x50 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoBottomRight.o
+                               0x369e (size before relaxing)
+ .debug_str     0x0001fd88       0x4a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoTopRight.o
                                0x3698 (size before relaxing)
- .debug_str     0x0001fe1c       0x48 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_title_circle.o
-                               0x3682 (size before relaxing)
- .debug_str     0x0001fe64       0x58 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingTopLeft.o
-                               0x3692 (size before relaxing)
- .debug_str     0x0001febc      0x27d TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/BitmapDatabase.o
-                               0x63c7 (size before relaxing)
- .debug_str     0x00020139       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoBottomLeft.o
-                               0x3688 (size before relaxing)
- .debug_str     0x00020171       0x37 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyTopLeft.o
-                               0x3686 (size before relaxing)
- .debug_str     0x000201a8       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academySmall.o
-                               0x3682 (size before relaxing)
- .debug_str     0x000201dd       0x33 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_enter_text.o
-                               0x367e (size before relaxing)
- .debug_str     0x00020210       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_title_number.o
-                               0x3682 (size before relaxing)
- .debug_str     0x00020245       0x39 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_backgroundBottom.o
-                               0x368a (size before relaxing)
- .debug_str     0x0002027e       0x3a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyBottomLeft.o
-                               0x368c (size before relaxing)
- .debug_str     0x000202b8       0x36 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_backgroundTop.o
-                               0x3684 (size before relaxing)
- .debug_str     0x000202ee       0x30 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_numbers.o
-                               0x3678 (size before relaxing)
- .debug_str     0x0002031e       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyTopRight.o
-                               0x3688 (size before relaxing)
- .debug_str     0x00020356       0x32 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_exit_text.o
-                               0x367c (size before relaxing)
- .debug_str     0x00020388       0x3b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyBottomRight.o
-                               0x368e (size before relaxing)
- .debug_str     0x000203c3       0x2e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_lines.o
-                               0x3674 (size before relaxing)
- .debug_str     0x000203f1       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_qrOverlayCircle.o
-                               0x3688 (size before relaxing)
- .debug_str     0x00020429       0x32 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleTop.o
-                               0x367c (size before relaxing)
- .debug_str     0x0002045b       0x3e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingTopRight.o
-                               0x3694 (size before relaxing)
- .debug_str     0x00020499       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_small_circle.o
-                               0x3682 (size before relaxing)
- .debug_str     0x000204ce       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoTopLeft.o
-                               0x3682 (size before relaxing)
- .debug_str     0x00020503       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleRightFull.o
-                               0x3688 (size before relaxing)
- .debug_str     0x0002053b       0x31 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_title_qr.o
-                               0x367a (size before relaxing)
- .debug_str     0x0002056c       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleBottom.o
-                               0x3682 (size before relaxing)
- .debug_str     0x000205a1       0x32 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_next_icon.o
-                               0x367c (size before relaxing)
- .debug_str     0x000205d3       0x37 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleLeftFull.o
-                               0x3686 (size before relaxing)
- .debug_str     0x0002060a       0x41 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingBottomRight.o
+ .debug_str     0x0001fdd2       0x5e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingBottomLeft.o
+                               0x36ac (size before relaxing)
+ .debug_str     0x0001fe30       0x48 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_title_circle.o
+                               0x3696 (size before relaxing)
+ .debug_str     0x0001fe78       0x58 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingTopLeft.o
+                               0x36a6 (size before relaxing)
+ .debug_str     0x0001fed0      0x27d TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/BitmapDatabase.o
+                               0x63db (size before relaxing)
+ .debug_str     0x0002014d       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoBottomLeft.o
+                               0x369c (size before relaxing)
+ .debug_str     0x00020185       0x37 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyTopLeft.o
                                0x369a (size before relaxing)
- .debug_str     0x0002064b       0x36 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/texts/src/LanguageGb.o
-                               0x4c82 (size before relaxing)
- .debug_str     0x00020681      0x1a9 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/texts/src/TypedTextDatabase.o
-                               0x61a1 (size before relaxing)
- .debug_str     0x0002082a      0x357 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/texts/src/Texts.o
-                               0xddb6 (size before relaxing)
- .debug_str     0x00020b81    0x92f53 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/MB1642ButtonController.o
-                              0xa46b9 (size before relaxing)
- .debug_str     0x000b3ad4     0x15ea TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
-                              0xa8a06 (size before relaxing)
- .debug_str     0x000b50be      0x3dd TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/STM32DMA.o
-                               0x9957 (size before relaxing)
- .debug_str     0x000b549b       0x44 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/OSWrappers.o
-                              0xa4420 (size before relaxing)
- .debug_str     0x000b54df     0x2e99 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/TouchGFXConfiguration.o
-                              0xacab4 (size before relaxing)
- .debug_str     0x000b8378       0xc9 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/TouchGFXGeneratedDataReader.o
-                              0x98060 (size before relaxing)
- .debug_str     0x000b8441      0x286 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/TouchGFXHAL.o
-                              0xa510b (size before relaxing)
- .debug_str     0x000b86c7      0x100 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/TouchGFXGPIO.o
-                              0x976cf (size before relaxing)
- .debug_str     0x000b87c7       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/TouchGFXDataReader.o
-                               0x50ea (size before relaxing)
- .debug_str     0x000b87ff       0x29 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/STM32TouchController.o
-                               0x4d92 (size before relaxing)
- .debug_str     0x000b8828      0x216 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/system_stm32g0xx.o
-                                0x44f (size before relaxing)
- .debug_str     0x000b8a3e      0xd4b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/main.o
-                               0x12d6 (size before relaxing)
- .debug_str     0x000b9789      0x17b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/stm32g0xx_it.o
-                                0xc9a (size before relaxing)
- .debug_str     0x000b9904      0x109 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/stm32g0xx_hal_msp.o
-                               0x10ed (size before relaxing)
- .debug_str     0x000b9a0d       0x7a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/MB1642DataReader.o
-                                0x920 (size before relaxing)
- .debug_str     0x000b9a87      0x171 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/MB1642DisplayDriver.o
-                               0x1095 (size before relaxing)
- .debug_str     0x000b9bf8       0xd2 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_crc.o
-                                0x5e7 (size before relaxing)
- .debug_str     0x000b9cca      0x34d TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
-                                0x83a (size before relaxing)
- .debug_str     0x000ba017      0x287 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
-                                0x8fe (size before relaxing)
- .debug_str     0x000ba29e      0x27f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
-                                0x8de (size before relaxing)
- .debug_str     0x000ba51d      0x7a4 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
-                               0x12a2 (size before relaxing)
- .debug_str     0x000bacc1      0x280 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
-                                0x942 (size before relaxing)
- .debug_str     0x000baf41       0x60 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
-                                0x5b2 (size before relaxing)
- .debug_str     0x000bafa1      0x538 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
-                                0xe01 (size before relaxing)
- .debug_str     0x000bb4d9      0xca6 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
-                               0x1931 (size before relaxing)
- .debug_str     0x000bc17f       0x66 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_crc_ex.o
-                                0x58d (size before relaxing)
- .debug_str     0x000bc1e5      0x2a8 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
-                                0xa85 (size before relaxing)
- .debug_str     0x000bc48d       0x1c TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/App/app_touchgfx.o
-                                0x1b2 (size before relaxing)
- .debug_str     0x000bc4a9      0x21e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/syscalls.o
-                                0x887 (size before relaxing)
- .debug_str     0x000bc6c7       0x63 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/sysmem.o
-                                0x69f (size before relaxing)
- .debug_str     0x000bc72a       0x2a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/startup_stm32g071rbtx.o
-                                 0x62 (size before relaxing)
+ .debug_str     0x000201bc       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academySmall.o
+                               0x3696 (size before relaxing)
+ .debug_str     0x000201f1       0x33 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_enter_text.o
+                               0x3692 (size before relaxing)
+ .debug_str     0x00020224       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_title_number.o
+                               0x3696 (size before relaxing)
+ .debug_str     0x00020259       0x39 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_backgroundBottom.o
+                               0x369e (size before relaxing)
+ .debug_str     0x00020292       0x3a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyBottomLeft.o
+                               0x36a0 (size before relaxing)
+ .debug_str     0x000202cc       0x36 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_backgroundTop.o
+                               0x3698 (size before relaxing)
+ .debug_str     0x00020302       0x30 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_numbers.o
+                               0x368c (size before relaxing)
+ .debug_str     0x00020332       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyTopRight.o
+                               0x369c (size before relaxing)
+ .debug_str     0x0002036a       0x32 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_exit_text.o
+                               0x3690 (size before relaxing)
+ .debug_str     0x0002039c       0x3b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_academyBottomRight.o
+                               0x36a2 (size before relaxing)
+ .debug_str     0x000203d7       0x2e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_lines.o
+                               0x3688 (size before relaxing)
+ .debug_str     0x00020405       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_qrOverlayCircle.o
+                               0x369c (size before relaxing)
+ .debug_str     0x0002043d       0x32 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleTop.o
+                               0x3690 (size before relaxing)
+ .debug_str     0x0002046f       0x3e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingTopRight.o
+                               0x36a8 (size before relaxing)
+ .debug_str     0x000204ad       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_small_circle.o
+                               0x3696 (size before relaxing)
+ .debug_str     0x000204e2       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_xLogoTopLeft.o
+                               0x3696 (size before relaxing)
+ .debug_str     0x00020517       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleRightFull.o
+                               0x369c (size before relaxing)
+ .debug_str     0x0002054f       0x31 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_title_qr.o
+                               0x368e (size before relaxing)
+ .debug_str     0x00020580       0x35 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleBottom.o
+                               0x3696 (size before relaxing)
+ .debug_str     0x000205b5       0x32 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_next_icon.o
+                               0x3690 (size before relaxing)
+ .debug_str     0x000205e7       0x37 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_circleLeftFull.o
+                               0x369a (size before relaxing)
+ .debug_str     0x0002061e       0x41 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/images/src/image_textScrollingBottomRight.o
+                               0x36ae (size before relaxing)
+ .debug_str     0x0002065f       0x36 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/texts/src/LanguageGb.o
+                               0x4c96 (size before relaxing)
+ .debug_str     0x00020695      0x1a9 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/texts/src/TypedTextDatabase.o
+                               0x61b5 (size before relaxing)
+ .debug_str     0x0002083e      0x357 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/generated/texts/src/Texts.o
+                               0xddca (size before relaxing)
+ .debug_str     0x00020b95    0x92f53 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/MB1642ButtonController.o
+                              0xa46cd (size before relaxing)
+ .debug_str     0x000b3ae8     0x15ea TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                              0xa8a1a (size before relaxing)
+ .debug_str     0x000b50d2      0x3dd TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/STM32DMA.o
+                               0x996b (size before relaxing)
+ .debug_str     0x000b54af       0x44 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/OSWrappers.o
+                              0xa4434 (size before relaxing)
+ .debug_str     0x000b54f3     0x2e99 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/TouchGFXConfiguration.o
+                              0xacac8 (size before relaxing)
+ .debug_str     0x000b838c       0xc9 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/generated/TouchGFXGeneratedDataReader.o
+                              0x98074 (size before relaxing)
+ .debug_str     0x000b8455      0x286 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/TouchGFXHAL.o
+                              0xa511f (size before relaxing)
+ .debug_str     0x000b86db      0x100 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/TouchGFXGPIO.o
+                              0x976e3 (size before relaxing)
+ .debug_str     0x000b87db       0x38 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/TouchGFXDataReader.o
+                               0x50fe (size before relaxing)
+ .debug_str     0x000b8813       0x29 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/target/STM32TouchController.o
+                               0x4da6 (size before relaxing)
+ .debug_str     0x000b883c      0x216 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/system_stm32g0xx.o
+                                0x463 (size before relaxing)
+ .debug_str     0x000b8a52      0xd4b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/main.o
+                               0x12ea (size before relaxing)
+ .debug_str     0x000b979d      0x17b TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/stm32g0xx_it.o
+                                0xcae (size before relaxing)
+ .debug_str     0x000b9918      0x109 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/stm32g0xx_hal_msp.o
+                               0x1101 (size before relaxing)
+ .debug_str     0x000b9a21       0x7a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/MB1642DataReader.o
+                                0x934 (size before relaxing)
+ .debug_str     0x000b9a9b      0x171 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Core/Src/MB1642DisplayDriver.o
+                               0x10a9 (size before relaxing)
+ .debug_str     0x000b9c0c       0xd2 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_crc.o
+                                0x5fb (size before relaxing)
+ .debug_str     0x000b9cde      0x34d TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
+                                0x84e (size before relaxing)
+ .debug_str     0x000ba02b      0x287 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
+                                0x912 (size before relaxing)
+ .debug_str     0x000ba2b2      0x27f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
+                                0x8f2 (size before relaxing)
+ .debug_str     0x000ba531      0x7a4 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
+                               0x12b6 (size before relaxing)
+ .debug_str     0x000bacd5      0x280 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
+                                0x956 (size before relaxing)
+ .debug_str     0x000baf55       0x60 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
+                                0x5c6 (size before relaxing)
+ .debug_str     0x000bafb5      0x538 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
+                                0xe15 (size before relaxing)
+ .debug_str     0x000bb4ed      0xca6 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
+                               0x1945 (size before relaxing)
+ .debug_str     0x000bc193       0x66 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_crc_ex.o
+                                0x5a1 (size before relaxing)
+ .debug_str     0x000bc1f9      0x2a8 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
+                                0xa99 (size before relaxing)
+ .debug_str     0x000bc4a1       0x1c TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/App/app_touchgfx.o
+                                0x1c6 (size before relaxing)
+ .debug_str     0x000bc4bd      0x21e TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/syscalls.o
+                                0x89b (size before relaxing)
+ .debug_str     0x000bc6db       0x63 TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/sysmem.o
+                                0x6b3 (size before relaxing)
+ .debug_str     0x000bc73e       0x2a TouchGFX/build/STM32G071RB_NUCLEO_AZ2/gcc/startup_stm32g071rbtx.o
+                                 0x76 (size before relaxing)
 
 .comment        0x00000000       0x7f
  .comment       0x00000000       0x7f TouchGFX/build/STM32G071RB_NUCLEO_AZ2/TouchGFX/gui/src/containers/NumberAnimator.o
