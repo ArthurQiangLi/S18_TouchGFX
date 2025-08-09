@@ -32,6 +32,7 @@ Notes and templates for TouchGFX on STM32G/F/H series
 1. [Presentation Notes: What are they](./01-reading-notes/presentation1-3/note1.md)
 1. [Where does TouchGFX sit in a project?](./01-reading-notes/presentation4/overview.md)
 2. [Presentation Notes: What is AL?](./01-reading-notes/3-AL-layer/what-is-AL-in-touchGFX.md)
+1. [UI Development - Fundamentals - Hands on](./01-reading-notes/presentation5-UI-Development/ui-development.md)
 3. [G071 demo8 features](./11-G071-Demos/doc_demos.md/demos.md)
 4. [Compare two new G071 projects](./11-G071-Demos/CompareTwoNewProject/compare_proj.md)
 
