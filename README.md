@@ -1,8 +1,21 @@
 # S18_TouchGFX
 Notes and templates for TouchGFX on STM32G/F/H series
 
-## Contents
 
+
+
+## Table Of Contents
+1. [Presentation Notes: What are they](./01-reading-notes/presentation1-3/note1.md)
+1. [Where does TouchGFX sit in a project?](./01-reading-notes/presentation4/overview.md)
+2. [Presentation Notes: What is AL?](./01-reading-notes/3-AL-layer/what-is-AL-in-touchGFX.md)
+1. [UI Development - Fundamentals - Hands on](./01-reading-notes/presentation5-UI-Development/ui-development.md)
+3. [G071 demo8 features](./11-G071-Demos/Demo8-doc/demos.md)
+4. [Compare two new G071 projects](./11-G071-Demos/CompareTwoNewProject/compare_proj.md)
+
+## Resources
+1. CubeIDE All: https://www.st.com/en/development-tools/stm32cubeide.html#documentation
+
+<img src="./01-reading-notes/presentation4/overview.png" border=1 width = 500  >
 
 ## Basic Concepts
 1. `LTDC` =  LCD-TFT Display Controller. `TFT`=Thin-Film-Transistor, `LCD`=Liquid-Crystal-Display. 
@@ -24,17 +37,3 @@ Notes and templates for TouchGFX on STM32G/F/H series
 1. It's better to disable the data cache in bringing-up phase when you have not got a stable platform. (it can be disabled in CubeMX in the System Core section).
 1. Layers are numbered 1, 2 in the HAL functions, but 0, 1 in STM32CubeMX. stupid.
 
-## Overview
-
-![overview](./01-reading-notes/presentation4/overview.png)
-
-## Table Of Contents
-1. [Presentation Notes: What are they](./01-reading-notes/presentation1-3/note1.md)
-1. [Where does TouchGFX sit in a project?](./01-reading-notes/presentation4/overview.md)
-2. [Presentation Notes: What is AL?](./01-reading-notes/3-AL-layer/what-is-AL-in-touchGFX.md)
-1. [UI Development - Fundamentals - Hands on](./01-reading-notes/presentation5-UI-Development/ui-development.md)
-3. [G071 demo8 features](./11-G071-Demos/doc_demos.md/demos.md)
-4. [Compare two new G071 projects](./11-G071-Demos/CompareTwoNewProject/compare_proj.md)
-
-## Resources
-1. CubeIDE All: https://www.st.com/en/development-tools/stm32cubeide.html#documentation

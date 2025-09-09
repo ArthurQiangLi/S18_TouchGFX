@@ -2,7 +2,8 @@
 
 Key takeaway:
 
-1. This package works with old cubeMx only, like 3.0.0 works with cubeMx6.7.0 
+1. You can review the code and see how hardware is connected with TouchGFX lib,
+2. This package works with old cubeMx only, like 3.0.0 works with cubeMx6.7.0 
 
 ## 1. Links
 1. Official link [Display module software expansion for STM32Cube](https://www.st.com/en/embedded-software/x-cube-display.html)
