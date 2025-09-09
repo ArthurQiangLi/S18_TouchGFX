@@ -7,3 +7,4 @@ This TBS is configured for 480 x 800 pixels 16bpp screen resolution.
 Performance testing can be done using the GPIO pins designated with the following signals: VSYNC_FREQ  - Pin PC6(D1), RENDER_TIME - Pin PC7(D0), FRAME_RATE  - Pin PJ1(D2), MCU_ACTIVE  - Pin PF6(D3).
 
  
+- [What's it?](./Articles/what-is-it/what.md)
